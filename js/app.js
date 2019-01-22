@@ -59,6 +59,7 @@ searchButton.addEventListener('click', (e) => {
 
 
     }
+    setEmptyClassName();
 
 });
 
